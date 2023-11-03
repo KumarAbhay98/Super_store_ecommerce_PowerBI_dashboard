@@ -5,6 +5,13 @@
 
 This report provides an in-depth analysis of Superstore sales data, utilizing Power BI and Excel. It encompasses two years of data insights, sales forecasting, and actionable recommendations for sales improvement.
 
+
+## Dashboards:
+<img width="532" alt="Screenshot 2023-11-03 214924" src="https://github.com/KumarAbhay98/Super_store_ecommerce_PowerBI_dashboard/assets/92244303/0996619b-633d-41ed-85b9-7aaf328ce1e6">
+
+<img width="531" alt="Screenshot 2023-11-03 214937" src="https://github.com/KumarAbhay98/Super_store_ecommerce_PowerBI_dashboard/assets/92244303/fc127a90-5db0-4eaf-ace7-37ac096578a4">
+
+
 ### Data Insights
 
 **Hero Categories and Subcategories**
