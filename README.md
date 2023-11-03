@@ -4,6 +4,13 @@
 
 This report provides an in-depth analysis of Superstore sales data, utilizing Power BI and Excel. It encompasses two years of data insights, sales forecasting, and actionable recommendations for sales improvement.
 
+**Charts Utilized**
+- **Clustered Bar Charts**: Used to visualize category and subcategory sales comparisons.
+- **Area Chart**: Representing sales and profit trends over two years.
+- **Map Chart**: Showing sales and profit distribution by region.
+- **Pie Charts**: Used for segment-wise and payment mode distribution.
+- **Forecasting Models**: Utilized for predicting sales and profit trends for the next 15 days.
+
 
 ## Dashboards:
 <img width="532" alt="Screenshot 2023-11-03 214924" src="https://github.com/KumarAbhay98/Super_store_ecommerce_PowerBI_dashboard/assets/92244303/0996619b-633d-41ed-85b9-7aaf328ce1e6">
