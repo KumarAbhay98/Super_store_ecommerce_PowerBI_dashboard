@@ -1,4 +1,3 @@
-# Super_store_ecommerce_PowerBI_dashboard
 # Superstore Sales Data Analysis Report
 
 ## Report Summary
