@@ -61,8 +61,10 @@ This report provides an in-depth analysis of Superstore sales data, utilizing Po
 - **Hero Subcategory**: In the East region, "Phones" emerged as the hero subcategory with sales worth $60,000.
 - **Segment Distribution**: The "Consumer" segment dominated sales in the East region, accounting for 50.35%.
 - **Payment Method in East Region**: Cash on Delivery (COD) was the most commonly used payment method in the East region, with 43.55% usage.
-- **Profit Variations**: There was a significant increase in profit in the East region in November 2020 compared to November 2019, where it was in negative figures. 
-![Uploading Screenshot 2023-11-03 221258.png…]()
+- **Profit Variations**: There was a significant increase in profit in the East region in November 2020 compared to November 2019, where it was in negative figures.
+  
+
+<img width="471" alt="Screenshot 2023-11-03 221258" src="https://github.com/KumarAbhay98/Super_store_ecommerce_PowerBI_dashboard/assets/92244303/43b1fa2c-593f-498e-bad0-cab4e5f291e1">
 
 **South Region**
 - **Hero Category Sales**: In the South region, "Office Supplies" is the hero category with sales worth $0.1 million.
@@ -70,6 +72,8 @@ This report provides an in-depth analysis of Superstore sales data, utilizing Po
 - **Segment Distribution**: The "Consumer" segment dominated sales in the South region, accounting for 53.57%.
 - **Payment Method in South Region**: Cash on Delivery (COD) was the most commonly used payment method in the South region.
 - **Profit Variations**: There was a noticeable change in profit trends. Sales and profit in November 2020 were significantly higher than in November 2019, and the same trend was observed in February 2020 compared to February 2019. However, there were losses in October and November 2020 compared to the same months in 2019.
+  
+<img width="472" alt="Screenshot 2023-11-03 221320" src="https://github.com/KumarAbhay98/Super_store_ecommerce_PowerBI_dashboard/assets/92244303/bf9ff6eb-f5af-4df9-bff4-ae4e86dc0f0e">
 
 **Western Region**
 - **Hero Category Sales**: In the Western region, the "Office Supplies" category was the top performer with sales worth $0.20 million.
