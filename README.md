@@ -44,6 +44,39 @@ This report provides an in-depth analysis of Superstore sales data, utilizing Po
 - Improved profit in November 2020, with losses observed in February, October, and November 2020.
 **Western Region**
 - Consistent sales growth in 2020 compared to 2019, extraordinary profit increase in March 2020, and losses in April 2020.
+
+### Insights by Region
+<img width="472" alt="Screenshot 2023-11-03 221210" src="https://github.com/KumarAbhay98/Super_store_ecommerce_PowerBI_dashboard/assets/92244303/9a7a350a-c02a-4285-afc4-8bb0c4682391">
+
+**Central Region**
+- **Hero Category Sales**: In the Central region, "Office Supplies" is the hero category with sales worth $0.15 million.
+- **Hero Subcategory**: Within the Central region, "Chairs" emerged as the hero subcategory with sales worth $46,000.
+- **Segment Distribution**: The majority of sales in the Central region were attributed to the "Consumer" segment, accounting for 47.63%.
+- **Payment Method in Central Region**: Cash on Delivery (COD) remains the dominant payment method, with 40.51% usage.
+- **Profit Variations**: There is a noticeable decrease in profit in the Central region in October 2020 compared to October 2019. Further investigation is needed to identify the reasons behind this significant decrease. Additionally, there's a consistent increase in sales in December, suggesting a seasonal pattern that should be considered for future planning.
+<img width="471" alt="Screenshot 2023-11-03 221238" src="https://github.com/KumarAbhay98/Super_store_ecommerce_PowerBI_dashboard/assets/92244303/5dc13f40-32b2-4b3d-bc50-0ea6f70330cf">
+
+**East Region**
+- **Hero Category Sales**: In the East region, "Office Supplies" is the hero category with sales worth $0.19 million.
+- **Hero Subcategory**: In the East region, "Phones" emerged as the hero subcategory with sales worth $60,000.
+- **Segment Distribution**: The "Consumer" segment dominated sales in the East region, accounting for 50.35%.
+- **Payment Method in East Region**: Cash on Delivery (COD) was the most commonly used payment method in the East region, with 43.55% usage.
+- **Profit Variations**: There was a significant increase in profit in the East region in November 2020 compared to November 2019, where it was in negative figures. 
+![Uploading Screenshot 2023-11-03 221258.png…]()
+
+**South Region**
+- **Hero Category Sales**: In the South region, "Office Supplies" is the hero category with sales worth $0.1 million.
+- **Hero Subcategory**: In the South region, "Phones" emerged as the hero subcategory with sales worth $36,000.
+- **Segment Distribution**: The "Consumer" segment dominated sales in the South region, accounting for 53.57%.
+- **Payment Method in South Region**: Cash on Delivery (COD) was the most commonly used payment method in the South region.
+- **Profit Variations**: There was a noticeable change in profit trends. Sales and profit in November 2020 were significantly higher than in November 2019, and the same trend was observed in February 2020 compared to February 2019. However, there were losses in October and November 2020 compared to the same months in 2019.
+
+**Western Region**
+- **Hero Category Sales**: In the Western region, the "Office Supplies" category was the top performer with sales worth $0.20 million.
+- **Hero Subcategory**: In the Western region, "Phones" emerged as the hero subcategory with sales worth $57,000.
+- **Segment Distribution**: The "Consumer" segment dominated sales in the Western region, accounting for 43.79%.
+- **Payment Method in Western Region**: Cash on Delivery (COD) was the most commonly used payment method in the Western region, with 42.6% usage.
+- **Profit Variations**: Notable profit variations were observed in the Western region. There was a gradual increase in sales throughout 2020 compared to 2019 for every month. Extraordinary increases in profit were noted for March 2020 compared to March 2019. However, in April 2020, profit was lower than in April 2019, and in August 2020, profit surpassed that of August 2019.
 - 
 ## Forecasting of sales ( length-15days , 95% confidence of interval)
 <img width="220" alt="Screenshot 2023-11-03 220624" src="https://github.com/KumarAbhay98/Super_store_ecommerce_PowerBI_dashboard/assets/92244303/c33dcea0-cdf6-401b-ab8a-80ecb2c48d51">
