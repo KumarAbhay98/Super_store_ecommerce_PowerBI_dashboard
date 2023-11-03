@@ -60,6 +60,7 @@ This report provides an in-depth analysis of Superstore sales data, utilizing Po
 
 ## Best Performing Region
 The Western region outperformed the other regions with gradual sales growth in 2020, extraordinary profit increases in March 2020, and overall strong performance throughout the year.
+
 For a detailed analysis and the attached Power BI forecasting file.
 
 ## Contributors
