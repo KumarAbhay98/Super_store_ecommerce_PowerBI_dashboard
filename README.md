@@ -44,6 +44,11 @@ This report provides an in-depth analysis of Superstore sales data, utilizing Po
 - Improved profit in November 2020, with losses observed in February, October, and November 2020.
 **Western Region**
 - Consistent sales growth in 2020 compared to 2019, extraordinary profit increase in March 2020, and losses in April 2020.
+- 
+## Forecasting of sales ( length-15days , 95% confidence of interval)
+<img width="220" alt="Screenshot 2023-11-03 220624" src="https://github.com/KumarAbhay98/Super_store_ecommerce_PowerBI_dashboard/assets/92244303/c33dcea0-cdf6-401b-ab8a-80ecb2c48d51">
+
+  
 
 ## Top 5 Ways to Improve Sales
 
