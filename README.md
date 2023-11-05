@@ -106,7 +106,10 @@ The Western region outperformed the other regions with gradual sales growth in 2
 For a detailed analysis and the attached Power BI forecasting file.
 
 ## Contributors
-- Abhay Kumar 
+- Abhay Kumar
+## Other projects on powerBI
+Nammayatri_dashboard https://github.com/KumarAbhay98/NammaYatri_PowerBi_dashboard
+
 
 
 
