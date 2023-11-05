@@ -109,6 +109,7 @@ For a detailed analysis and the attached Power BI forecasting file.
 - Abhay Kumar
 ## Other projects on powerBI
 Nammayatri_dashboard https://github.com/KumarAbhay98/NammaYatri_PowerBi_dashboard
+PowerBI_ecommerce_dashboard https://github.com/KumarAbhay98/Data_Analysis_PowerBi_ecommerce
 
 
 
